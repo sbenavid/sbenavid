@@ -46,3 +46,11 @@ Quick introduction.
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"><img align="center" alt="Mongoose" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png"><img align="center" alt="XML" width="35px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" style="max-width: 100%;"></a>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sbenavides&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<!-- spotify callback
+http://localhost/callback/?code=AQBydaYYFOS9z-ttbrBCHeXK2xR9gq9_JJPm-fYx76O7NTlEzs-YABmbHPHoQWhLzg8ScKHZXLib0Mfni1V49P85CgXZLiQTb_0ETsFKrP_Uf0Rds81so9HB_kV92oOVGs5mrrIAO2vPWGf4HGfFCRPaw2CdsKQQWkU7qNEEBfw6iu02L10e5ZZ_98xFuvWwKHgxbo4Ix-rvJu47tMaucNN8gG18grmeMwtmRRhvZjh9l3sq9kg -->
+
+<!-- response -->
+<!-- {"access_token":"BQAyl8Q_6fiZ_MwhGlwxO95dFzUcQ-SXgc5QKouUxVbBX-e3H8L_JWDyfm_DRnn5ToVJbV_T7U-phv4pUENvm6e1VD0O2k7LORAWkZ3nHY-Ch869SPiZ_dfvG7MRfsrIG6vcYwizOLtgaasKSmJyympL68earTn61mFepphXHtpsVk-7BJLWfrRRgw","token_type":"Bearer","expires_in":3600,"refresh_token":"AQAVH8QtsDdBbxtTA4rxTt25eN7I4JZiHuvB1Of5-c7tNwsK-jk-jPVRG57w6xV8SdkiLghQHYJqcoFyUG7_q74C_HMsXvlgGVFkuPe_LQaS_wus462vYGn-OBs7gl1DRQs","scope":"user-read-currently-playing user-read-recently-played"} -->
