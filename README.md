@@ -1,17 +1,14 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+world;This+is+Saul.+Software+Architect)](https://git.io/typing-svg)
 
-<!--
-**sbenavid/sbenavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Saul** is a ✨ _thinker_ ✨ .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quick introduction.
+
+- 🔭 I’m currently working on MERN Stack project
+- 🌱 I’m currently learning Serverless architectures in AWS
+- 💬 Ask me about photography, software development
+- 📫 How to reach me: sbenavid@gmail.com
+- ⚡ Fun fact: Love motorcycles
+
