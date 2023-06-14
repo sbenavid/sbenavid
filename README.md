@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+world;This+is+Saul.+Software+Architect)](https://git.io/typing-svg)
 
 <!--
 **sbenavid/sbenavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
