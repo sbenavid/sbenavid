@@ -14,6 +14,6 @@ Quick introduction.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbenavid/)
-[![Twitter](https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fsbenavid)](https://twitter.com/sbenavid)
+[![Twitter](https://img.shields.io/twitter/logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fsbenavid)](https://twitter.com/sbenavid)
 
 
