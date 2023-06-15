@@ -4,6 +4,9 @@
 
 **Saul** is a ✨ _thinker_ ✨ .
 
+
+<a href="https://www.buymeacoffee.com/sbenavidY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<hr>
 Quick introduction.
 
 - 🔭 I’m currently working on MERN Stack project
@@ -11,8 +14,7 @@ Quick introduction.
 - 💬 Ask me about photography, software development
 - 📫 How to reach me: sbenavid@gmail.com
 - ⚡ Fun fact: Love motorcycles
-
-
+<hr>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbenavid/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sbenavid)
 
@@ -54,3 +56,6 @@ http://localhost/callback/?code=AQBydaYYFOS9z-ttbrBCHeXK2xR9gq9_JJPm-fYx76O7NTlE
 
 <!-- response -->
 <!-- {"access_token":"BQAyl8Q_6fiZ_MwhGlwxO95dFzUcQ-SXgc5QKouUxVbBX-e3H8L_JWDyfm_DRnn5ToVJbV_T7U-phv4pUENvm6e1VD0O2k7LORAWkZ3nHY-Ch869SPiZ_dfvG7MRfsrIG6vcYwizOLtgaasKSmJyympL68earTn61mFepphXHtpsVk-7BJLWfrRRgw","token_type":"Bearer","expires_in":3600,"refresh_token":"AQAVH8QtsDdBbxtTA4rxTt25eN7I4JZiHuvB1Of5-c7tNwsK-jk-jPVRG57w6xV8SdkiLghQHYJqcoFyUG7_q74C_HMsXvlgGVFkuPe_LQaS_wus462vYGn-OBs7gl1DRQs","scope":"user-read-currently-playing user-read-recently-played"} -->
+
+<!-- mayor info: -->
+<!-- https://medium.com/nerd-for-tech/build-your-github-public-profile-like-a-pro-in-10-steps-552876aa26c9 -->
