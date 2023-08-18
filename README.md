@@ -9,8 +9,8 @@
 <hr>
 Quick introduction.
 
-- 🔭 I’m currently working on MERN Stack project
-- 🌱 I’m currently learning Serverless architectures in AWS
+- 🔭 I’m currently working on Serverless architectures in AWS
+- 🌱 I’m currently learning Generative AI
 - 💬 Ask me about photography, software development
 - 📫 How to reach me: sbenavid@gmail.com
 - ⚡ Fun fact: Love motorcycles
