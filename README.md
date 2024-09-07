@@ -50,7 +50,7 @@ Quick introduction.
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png"><img align="center" alt="XML" width="35px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" style="max-width: 100%;"></a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinax.com/api/view?uid=sbenavides&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sbenavides&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile))
 
 <!-- spotify callback
 http://localhost/callback/?code=AQBydaYYFOS9z-ttbrBCHeXK2xR9gq9_JJPm-fYx76O7NTlEzs-YABmbHPHoQWhLzg8ScKHZXLib0Mfni1V49P85CgXZLiQTb_0ETsFKrP_Uf0Rds81so9HB_kV92oOVGs5mrrIAO2vPWGf4HGfFCRPaw2CdsKQQWkU7qNEEBfw6iu02L10e5ZZ_98xFuvWwKHgxbo4Ix-rvJu47tMaucNN8gG18grmeMwtmRRhvZjh9l3sq9kg -->
